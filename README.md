@@ -3,10 +3,10 @@
 ---
 
 ## 🗂️ Table of Contents  
-2. [Topics Covered](#-topics-covered)  
-3. [Learning Method & Evaluation](#-learning-method--evaluation)  
-4. [Textbooks & Resources](#-textbooks--resources)  
-5. [License](#-license)  
+1. [Topics Covered](#-topics-covered)  
+2. [Learning Method & Evaluation](#-learning-method--evaluation)  
+3. [Textbooks & Resources](#-textbooks--resources)  
+4. [License](#-license)  
 
 ---
 
